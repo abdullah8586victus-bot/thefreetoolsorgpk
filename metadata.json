@@ -1,0 +1,6 @@
+{
+  "name": "TheFreeToolsOrg",
+  "description": "Free online web utility hub with 40+ tools for PDF conversion, image editing and unblurring, document processing, and developer utilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
